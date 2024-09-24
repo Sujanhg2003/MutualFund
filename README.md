@@ -40,6 +40,7 @@
 ## Disclaimer: The dataset is for educational and research purposes only. The data may not be 100% accurate and users should verify the data before making any investment decisions.
 
 # Analysis:
+## ==================Click on graphs for interactive plots ===================
 # [![Interactive Plot](https://github.com/user-attachments/assets/34510ca9-7fa1-4084-826c-e6d2f4917b92)](https://sujanhg2003.github.io/MutualFund/sample_plot_1.html)
 
 ### The graph represents the distribution of sortino.
