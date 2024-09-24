@@ -77,7 +77,8 @@
 ### The visuals represents Impact of Minimum Investment on Returns.There's no clear correlation between minimum investment amount and returns, suggesting that higher minimum investments don't necessarily lead to better performance.The highest returns are achieved by funds with minimum investments in the 100-10,000 range, indicating that top-performing funds are accessible to a wide range of investors.There's a wide dispersion of returns for each minimum investment level, particularly in the 100-1,000 range.
 ### SIP (Systematic Investment Plan) options tend to have lower minimum investment requirements compared to lump sum investments.Some funds with very low minimum investments (around 10) still achieve competitive returns, making them attractive for small investors.                                                              The density of funds is highest in the 100-1,000 minimum investment range, suggesting this is a sweet spot for fund offerings.There are fewer funds with very high minimum investments (10,000+), and their performance doesn't appear to be consistently superior.
 
-
+# Conclusion
+### Overall, the analysis highlights the importance of considering multiple factors, such as risk-adjusted returns (Sharpe ratio), fees (expense ratio), and market volatility (Beta), when selecting mutual funds. Further, this analysis can serve as a starting point for deeper exploration into fund management strategies and long-term investment performance.
 
 
 
