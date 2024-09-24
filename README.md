@@ -42,4 +42,17 @@
 # Analysis:
 # [![Interactive Plot](https://github.com/user-attachments/assets/34510ca9-7fa1-4084-826c-e6d2f4917b92)](https://sujanhg2003.github.io/MutualFund/sample_plot_1.html)
 
+### The graph represents the distribution of sortino.
+### The distribution is right-skewed (positively skewed), with a long tail extending to the right. This indicates that while most funds have Sortino ratios clustered around a central value, there are some funds with exceptionally high Sortino ratios.
+### Range: The Sortino ratios in this dataset range from approximately -2 to 12, with the vast majority falling between 0 and 6.
+### Frequency: The highest bar in the histogram corresponds to Sortino ratios between 3 and 4, with over 350 funds falling in this range.
+### Outliers: There are very few funds with Sortino ratios above 6, which could be considered outliers or exceptionally well-performing funds in terms of risk-adjusted returns for downside risk.
+### Negative Values: There's a small number of funds with negative Sortino ratios (below 0), indicating some funds that are underperforming relative to the risk-free rate when considering downside risk.
+### Performance Implications: Given that higher Sortino ratios indicate better risk-adjusted performance, this distribution suggests that while most funds have moderate performance, there are a few standout performers with very high ratios.
+# [![Interactive Plot](https://github.com/user-attachments/assets/b1ebfc29-9f51-4918-9f92-08df47c7c4eb)](https://sujanhg2003.github.io/MutualFund/sample_plot_2.html)
+
+
+
+
+
 
